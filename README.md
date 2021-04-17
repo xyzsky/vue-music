@@ -43,6 +43,11 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Day3
 
-  - 图片懒加载
+  - 图片懒加载 v-lazy
   - vue3 自定义指令 and 自定义指令增加参数
   - v-for 愚蠢问题，把参数写到的v-for标签外面。。。
+  - 头部定位问题，计算长度时，图片没有加载出来，导致计算值太小 index-list
+
+### Day4
+  - position 实现通讯录效果，使用 absolute 不要使用 fixed index-list.vue
+  - composition api 主要用于将一些不同的逻辑功能做拆分
